@@ -15,10 +15,14 @@
     </RestoreAdditionalProjectSources>
   </PropertyGroup>
   <ItemGroup>
+    <None Remove="icon.png" />
     <None Remove="manifest.json" />
     <None Remove="README.md" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="icon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="manifest.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
