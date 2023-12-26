@@ -1,0 +1,7 @@
+{
+    "name": "TweakMecha",
+    "description": "This mod allows you to weak your mecha. Currently warp and cruise speeds.  The speed is configurable in AUs or LYs.  More to come later.",
+    "version_number": "1.0.0",
+    "dependencies": [],
+    "website_url": "https://github.com/jimmieclark3/dyson-sphere-mods"
+}

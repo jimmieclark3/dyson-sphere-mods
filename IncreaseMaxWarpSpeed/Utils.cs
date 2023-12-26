@@ -1,4 +1,4 @@
-﻿namespace Etherios.DSP.IncreaseMaxWarpSpeed
+﻿namespace Etherios.DSP.TweakMecha
 {
     public static class Utils
     {
